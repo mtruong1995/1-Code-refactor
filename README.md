@@ -19,7 +19,7 @@ Click on following link to view website and github repository. CSS stylesheet is
 
 ## Screenshot
 
-![Screenshot of Horiseon website](assets/images/horiseon-screenshot.png)
+![Screenshot of Horiseon website](assets/images/Horiseon-screenshot.png)
 
 
 ## Credit
