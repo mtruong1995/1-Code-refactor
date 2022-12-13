@@ -24,6 +24,8 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
+/* navigation bar */
+
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,9 +34,6 @@ header nav {
     font-size: 20px;
 }
 
-header nav ul {
-    list-style-type: none;
-}
 
 header nav ul li {
     display: inline-block;
@@ -50,6 +49,8 @@ p {
     font-size: 18px;
 }
 
+/* banner image */
+
 .hero {
     height: 700px;
     width: 100%;
@@ -59,6 +60,7 @@ p {
     background-position: center;
 }
 
+/* feature image margins */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -74,6 +76,8 @@ main {
     display: inline-block;
     margin-left: 20px;
 }
+
+/* sidebar images */
 
 .benefits {
     margin-right: 20px;
@@ -102,6 +106,7 @@ main {
     max-width: 150px;
 }
 
+/* main section styling */
 
 .features{
     margin-bottom: 20px;
@@ -122,6 +127,7 @@ main {
     font-size: 36px;
 }
 
+/* this is the bottom of the page */
 
 footer {
     padding: 30px;
